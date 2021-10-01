@@ -31,11 +31,13 @@ Market and competitor research: Find out who’s trending among your competitors
 Ads Placement: Place an  ad when one praises or criticizes a product.
 
 ### UML Diagram
-
 ![UML](https://user-images.githubusercontent.com/49243518/135561396-4f88b40e-951b-4ace-95f5-82621a4322d2.png)
 
 
+### Linear Support Vector
+![LSV](https://user-images.githubusercontent.com/49243518/135579270-2da84212-e776-4977-91f6-6eb609ef27cc.jpg)
 
-
+### Accuracy
+![Accuracy](https://user-images.githubusercontent.com/49243518/135579280-71783de4-58e1-441d-b1c7-8c2afcf3c3d2.jpg)
 
 
