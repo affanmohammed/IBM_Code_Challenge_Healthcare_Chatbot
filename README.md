@@ -21,9 +21,13 @@ Web page is developed using flask.
 
 ### Applications
 E-Commerce Industry: Analyzing the customer review as textual data from chat-bots,logs from contact centers,emails.
+
 Social Media Monitoring: Brand monitoring based on the details given by consumer.
+
 Live insights: Customer mood can change at any point during a customer service interaction,user can see the mood of each customer in a session
+
 Market and competitor research: Find out who’s trending among your competitors and how your marketing efforts compare.
+
 Ads Placement: Place an  ad when one praises or criticizes a product.
 
 ### UML Diagram
