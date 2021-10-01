@@ -26,6 +26,10 @@ Live insights: Customer mood can change at any point during a customer service i
 Market and competitor research: Find out who’s trending among your competitors and how your marketing efforts compare.
 Ads Placement: Place an  ad when one praises or criticizes a product.
 
+### UML Diagram
+
+![UML](https://user-images.githubusercontent.com/49243518/135561396-4f88b40e-951b-4ace-95f5-82621a4322d2.png)
+
 
 
 
