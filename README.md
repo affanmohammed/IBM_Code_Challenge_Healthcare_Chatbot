@@ -16,7 +16,7 @@ To study human behavior in which we extract user opinion and emotion from plain 
 
 ### Solution
 Audio message is converted into text message using python libraries.
-With the help of SVM, emotion recognition is done.
+With the help of NLP, emotion recognition is done.
 Web page is developed using flask.
 
 ### Applications
